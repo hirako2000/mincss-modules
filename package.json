@@ -1,0 +1,24 @@
+{
+  "name": "mincss-modules",
+  "version": "2.0.0",
+  "description": "mincss modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirako2000/mincss-modules.git"
+  },
+  "keywords": [
+    "mincss",
+    "less",
+    "sass"
+  ],
+  "author": "hirako2000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirako2000/mincss-modules/issues"
+  },
+  "homepage": "https://github.com/hirako2000/mincss-modules#readme"
+}
