@@ -44,7 +44,7 @@ Of course, modern browsers give you pretty transitions.
 MIT licensed.
 
 
-###Contributing
+### Contributing
 
 This is a mere publishing of the mincss less/sass components
 The min(css) project has not been updated in a while. If you are interested in contributing, reach out to the author
